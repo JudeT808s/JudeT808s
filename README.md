@@ -1,8 +1,6 @@
 Hi 👋 I'm Jude
 ============================
 
-I'm a Recent Graduate
-
 * 🌍  I'm based in Ireland
 * ✉️  You can contact me at [jaytbas@gmail.com](mailto:jaytbas@gmail.com)
 
