@@ -1,4 +1,4 @@
-Hi 👋 My name is Jude McCrea
+Hi 👋 I'm Jude
 ============================
 
 Student currently in an Data Analyst internship for a B2B Dashboard Platform
