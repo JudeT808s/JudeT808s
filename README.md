@@ -15,6 +15,8 @@ Hi 👋 I'm Jude
 <p align="left"> <a href="https://www.github.com/JudeT808s" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
 
 
+
 <b>My GitHub Stats</b>
 <br>
-<a href="http://www.github.com/JudeT808s"><img src="https://github-readme-stats.vercel.app/api?username=JudeT808s&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="JudeT808s's GitHub stats" /></a>
+<a href="http://www.github.com/JudeT808s"><img src="https://github-readme-stats.vercel.app/api?username=JudeT808s&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&theme=shades-of-purple" alt="JudeT808s's GitHub stats" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JudeT808s)](https://github.com/anuraghazra/github-readme-stats&theme=shades-of-purple)
