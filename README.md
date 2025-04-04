@@ -20,5 +20,7 @@ Hi 👋 I'm Jude
 
 <b>My GitHub Stats</b>
 <br>
-<a href="http://www.github.com/JudeT808s"><img src="https://github-readme-stats.vercel.app/api?username=JudeT808s&show_icons=true&hide=&count_private=true&theme=shades-of-purple&rank_icon=github" alt="JudeT808s's GitHub stats" /></a>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JudeT808s&theme=shades-of-purple)
+[![JudeT808s's GitHub stats - Dark](https://github-readme-stats.vercel.app/api?username=JudeT808s&show_icons=true&theme=vue-dark&rank_icon=github#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![JudeT808s's GitHub stats - Light](https://github-readme-stats.vercel.app/api?username=JudeT808s&show_icons=true&theme=vue&rank_icon=github#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs - Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=JudeT808s&theme=vue-dark&bg_color=00000000#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs - Light](https://github-readme-stats.vercel.app/api/top-langs/?username=JudeT808s&theme=vue&bg_color=FFFFFF00#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
